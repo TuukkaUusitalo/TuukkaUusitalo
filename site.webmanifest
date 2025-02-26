@@ -1,0 +1,20 @@
+{
+  "name": "Tuukka Uusitalo",
+  "short_name": "Tuukka",
+  "icons": [
+    {
+      "src": "/oodi2-kuva.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/oodi2-kuva.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
